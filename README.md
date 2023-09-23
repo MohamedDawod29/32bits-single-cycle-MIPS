@@ -40,8 +40,11 @@ The design allows only a small set of instructions, focusing on simple operation
 ![image](https://github.com/MohamedDawod29/32bits-single-cycle-MIPs/assets/138527948/36ab30b8-1720-4cc6-96d2-7563e2ac3985)
 
 -We can devide Single Cycle MIPS into Datapath and Control unit.
-![Datapath ](https://github.com/MohamedDawod29/32bits-single-cycle-MIPs/assets/138527948/4dc86d59-3099-4d34-afc8-7d3fb0ace54e)  
-Complete single-cycle MIPS processor. (from David M. Harris, Sarah L. Harris - Digital Design and Computer Architecture).
+![cont](https://github.com/MohamedDawod29/32bits-single-cycle-MIPs/assets/138527948/7ef8a17d-3a9a-485a-9611-093a27eb60b5)
+
+![Datapath ](https://github.com/MohamedDawod29/32bits-single-cycle-MIPs/assets/138527948/4dc86d59-3099-4d34-afc8-7d3fb0ace54e)   Complete single-cycle MIPS processor.
+
+
 
 -Refrence: David M. Harris, Sarah L. Harris - Digital Design and Computer Architecture,2ndEdition,2012.
 
