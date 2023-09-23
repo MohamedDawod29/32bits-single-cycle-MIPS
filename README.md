@@ -1,5 +1,5 @@
 # 32bits-single-cycle-MIPs
--MIPS architecture it's a type of the RISC (Reduced Instruction Set Computer) design philosophy, which aims to minimize complexity and optimizing performance. It uses a fixed instruction with a length of 32 bits, making instruction decoding and execution easy. 
+-MIPS architecture is a type of the RISC (Reduced Instruction Set Computer) design philosophy, which aims to minimize complexity and optimizing performance. It uses a fixed instruction with a length of 32 bits, making instruction decoding and execution easy. 
 The design allows only a small set of instructions, focusing on simple operations while ignoring complex instructions that are rarely used.
 
 -MIPS architecture is byte-addressed, not word-addressed.
